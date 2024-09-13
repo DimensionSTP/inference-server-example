@@ -74,6 +74,8 @@ If Docker is not installed, follow these steps:
 
 ## Model Training
 
+Before train the model, you need to create __data__ directory and insert __iris_with_category_index.csv__ file.
+
 Before running the server, you need to train the model and save the trained model as a .pkl file. Run the following command to execute train.py and generate the model file:
 
 ```bash
