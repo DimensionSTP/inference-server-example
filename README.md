@@ -74,7 +74,7 @@ If Docker is not installed, follow these steps:
 
 ## Model Training
 
-Before running the server, you need to train the model and save the trained model as a .pkl file. Run the following command to execute model.py and generate the model file:
+Before running the server, you need to train the model and save the trained model as a .pkl file. Run the following command to execute train.py and generate the model file:
 
 ```bash
 python train.py
